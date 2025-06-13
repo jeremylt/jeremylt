@@ -1,6 +1,6 @@
 # Research Software Engineer
 
-🇺🇳 🇺🇸 🇲🇽 🏳️‍🌈 🇵🇸 🏳️‍⚧️ 🇺🇦 🏴‍☠️
+🇺🇳 🇺🇸 🇲🇽 🏳️‍🌈 🇵🇸 🏳️‍⚧️ 🇺🇦 🏴‍☠️ =✪=
 
 I am a Research Software Engineer in the department of Computer Science at the University of Colorado Boulder.
 I develop the Ratel and libCEED libraries as part of CU Boulder's PSAAP center.

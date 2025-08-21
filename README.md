@@ -2,7 +2,7 @@
 
 🇺🇳 🇺🇸 🇲🇽 🏳️‍🌈 🇵🇸 🏳️‍⚧️ 🇺🇦 🏴‍☠️ =✪=
 
-I am a Research Software Engineer in the department of Computer Science at the University of Colorado Boulder.
+I am a Research Assistant Professor and Software Engineer in the department of Computer Science at the University of Colorado Boulder.
 I develop the Ratel and libCEED libraries as part of CU Boulder's PSAAP center.
 After graduating from the US Air Force Academy, I served as an advanced weapon systems analyst, testing the accuracy and reliability of aircraft based nuclear weapons.
 I previously served on the faculty at the US Air Force Academy.
